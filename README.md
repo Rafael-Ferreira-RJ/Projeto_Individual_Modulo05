@@ -39,9 +39,9 @@ Foi adicionado o "type": "module" ao arquivo package.json, para indicar ao Node.
 Este comando é um módulo do Node.js, utilizado para criar os scripts interativos deste projeto.<br>
 ![image](https://user-images.githubusercontent.com/113391188/216836048-2b8c465a-ba6b-44f1-9616-d010671fc341.png)
 
-• Node index.js
+• node index.js<br>
 Este comando foi utilizado para rodar o código.<br>
-![image](https://user-images.githubusercontent.com/113391188/216838868-e1ca5a32-664c-43a6-96e6-b9e1ba268011.png)
+![image](https://user-images.githubusercontent.com/113391188/216841073-2d0bd492-518d-41e8-9583-742b9bd6e3dc.png)
 
 RESULTADO NO TERMINAL
 
